@@ -9,7 +9,7 @@ tags: [document, Sar_Wall]
 author: Ingrid Diaz
 ---
 
-Talk about finding stuff on memory lane, stuff I had forgotten over the years. But here is a presentation I had made of the famous paper on Rational Expectations by Sargent and Wallace. A must-read for anyone.
+Talk about finding stuff on memory lane, stuff I had forgotten I had done over the years. But here is an undergrad presentation I had made of the famous paper on Rational Expectations by Sargent and Wallace. A must-read for anyone.
 
 <a class="btn btn-primary"
 href="/assets/documents/Rational_Expectations.pdf"
